@@ -1,0 +1,1 @@
+{"input":"moergo-rmk","rev":"a0680cb963b9593125d27239a3fc856a97de398d","patches":["moergo-rmk-export-tap-patterns.patch","moergo-rmk-go60-moergo-json.patch","moergo-rmk-read-unprofiled-tap-holds.patch"]}

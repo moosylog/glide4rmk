@@ -1,0 +1,17 @@
+{
+  "name": "moergo-config-wasm",
+  "type": "module",
+  "description": "The MoErgo runtime configuration model compiled to WebAssembly",
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": [
+    "moergo_config_wasm_bg.wasm",
+    "moergo_config_wasm.js",
+    "moergo_config_wasm.d.ts"
+  ],
+  "main": "moergo_config_wasm.js",
+  "types": "moergo_config_wasm.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
