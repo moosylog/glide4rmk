@@ -210,7 +210,7 @@
           pname = "rynkbench";
           version = "0.0.0";
           src = self;
-          npmDepsHash = "sha256-RFEkBVhRRTnM6hDVL+wQz65EnPz8YOhzLmLBf92aKfQ=";
+          npmDepsHash = "sha256-EtfCvDA/4NZRP581yoxZ1LM/uEFob+4fS2PUUE7yN/w=";
 
           preBuild = ''
             rm -rf src/vendor/rynk-wasm src/vendor/moergo-config-wasm
